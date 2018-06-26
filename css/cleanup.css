@@ -22,5 +22,3 @@ div#wall div.parent > #tag-5.slick {
 body div#wall div.parent + #tag-6 {
   display: none;
 }
-
-}
